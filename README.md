@@ -10,3 +10,6 @@ kortingsoordeel, productgroepen, prijsreeksen, gerechten en supermarktfilialen.
 
 `manifest.json` zegt wanneer de gegevens gebouwd zijn en welke bestanden erbij horen.
 De app haalt het manifest op en daarna alleen de bestanden die veranderd zijn.
+
+In `PRIVACY.md` staat wat de app wel en niet over het internet stuurt. Dat is het adres
+dat de App Store als privacybeleid vraagt.
