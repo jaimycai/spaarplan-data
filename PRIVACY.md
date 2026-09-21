@@ -15,7 +15,7 @@ verdwijnt als je de app verwijdert.
 
 ## Wat er wél over het internet gaat
 
-Vier dingen, en geen daarvan zegt iets over wie je bent.
+Vijf dingen, en geen daarvan zegt iets over wie je bent.
 
 **Productfoto's.** Die zitten niet in de app maar staan bij de supermarkten zelf. Je
 telefoon haalt ze rechtstreeks op bij hun beeldservers. Die ketens zien daardoor dat er
@@ -33,6 +33,18 @@ Locatieserver van PDOK, een dienst van het Kadaster, zonder account en zonder sl
 bewaren daarna één punt op je toestel, afgerond op ongeveer tien meter, zonder
 geschiedenis.
 
+**De knop naar de winkel op een productscherm.** Alleen als je erop tikt. Bij de meeste
+ketens heet hij "Bekijk bij ..." en opent hij de productpagina zelf; het adres komt uit onze
+bron en wordt kaal gemaakt — geen parameters, geen herkenning, geen verwijzing naar ons.
+
+Levert onze bron voor die keten geen adres, dan hangt het van de keten af. Bij Dirk heet de
+knop "Zoek bij Dirk" en gaat hij naar hun zoekpagina met de productnaam erin. DekaMarkt en
+Hoogvliet publiceren geen productpagina's die je kunt delen; daar zet de knop de productnaam
+op je klembord en opent hij hun voorpagina, zodat je hem zelf in hun zoekbalk kunt plakken.
+Dat klembord is van jou: wij lezen het niet en wij weten niet wat je ermee doet.
+
+Ook dan bezoek jij die site zelf en sturen wij niets mee.
+
 **Een recept importeren.** Alleen als je zelf een adres plakt. Dan haalt je telefoon die
 pagina op, net zoals je browser dat zou doen. Wat eruit komt blijft op je toestel.
 
@@ -46,11 +58,18 @@ vallen die jij koos.
 Wil je dat niet, dan typ je een postcode. Wil je ook dat niet, dan werkt de app verder
 gewoon — je ziet alleen geen afstanden.
 
-## Geen meldingen
+## Meldingen
 
-De app stuurt geen pushberichten. Dat is geen belofte over de toekomst maar een gevolg van
-hoe hij gebouwd is: daarvoor zou hij op de achtergrond prijzen moeten ophalen, en dat doet
-hij niet.
+De app stuurt geen pushberichten. Er is geen pushdienst, geen token en geen server van ons;
+technisch kán deze app je geen bericht sturen.
+
+Wat er wél is, en alleen als je het zelf aanzet bij Ik: je telefoon haalt hoogstens één keer
+per twaalf uur dezelfde openbare bestanden op als bij het starten, kijkt zélf of daar een
+product tussen zit dat jij bewaakt, en maakt de melding op het toestel. Wij weten niet welke
+producten je volgt en wij weten niet dat je een melding kreeg.
+
+Het is geen prijsalarm dat op de minuut werkt: iOS bepaalt zelf wanneer een achtergrondtaak
+draait, en forceer je de app af, dan stopt die taak tot je hem weer opent.
 
 ## Waar de gegevens vandaan komen
 
