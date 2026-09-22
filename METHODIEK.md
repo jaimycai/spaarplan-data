@@ -1,6 +1,6 @@
 # Hoe wij prijzen meten
 
-*Deze pagina is op 21 september 2026 gemaakt uit het scherm Hoe wij prijzen meten in de app Spaarplan, en zegt dus letterlijk hetzelfde. De getallen zijn geteld in de gegevens waar de app zelf mee draait.*
+*Deze pagina is op 22 september 2026 gemaakt uit het scherm Hoe wij prijzen meten in de app Spaarplan, en zegt dus letterlijk hetzelfde. De getallen zijn geteld in de gegevens waar de app zelf mee draait.*
 
 Deze app beweert niet dat iets goedkoop is — dat beweert elke folder. Hij laat zien wat wij zelf gemeten hebben en trekt daar één conclusie uit. Hieronder staat hoe die conclusie tot stand komt, welke regels erachter zitten, en wat wij niet kunnen zien.
 
@@ -22,7 +22,7 @@ Bij elk gerecht staat per winkel een eigen zin die zegt waarom het deze week een
 
 ## Elke ochtend om 08:15 opnieuw
 
-De gegevens in deze app zijn geen momentopname die wij ooit een keer gemaakt hebben. Elke ochtend om kwart over acht halen wij de nieuwe dag op, bouwen wij de prijsreeksen opnieuw, vragen wij de lopende aanbiedingen op en berekenen wij elk oordeel opnieuw. Kwart over acht is ná de dagelijkse commit van Checkjebon, die tussen half zeven en half acht komt. De stand die je nu voor je hebt komt uit de ronde van 21 september 2026.
+De gegevens in deze app zijn geen momentopname die wij ooit een keer gemaakt hebben. Elke ochtend om kwart over acht halen wij de nieuwe dag op, bouwen wij de prijsreeksen opnieuw, vragen wij de lopende aanbiedingen op en berekenen wij elk oordeel opnieuw. Kwart over acht is ná de dagelijkse commit van Checkjebon, die tussen half zeven en half acht komt. De stand die je nu voor je hebt komt uit de ronde van 22 september 2026.
 
 Die ronde publiceert alles of niets. Er wordt gebouwd in een aparte map, en pas als alle controles gehaald zijn wordt die map in één keer omgewisseld: de databestanden zijn nooit half nieuw. Zakt het aantal aanbiedingen te hard, mist een gerecht zijn prijs of ziet een databestand er beschadigd uit, dan gaat de ronde niet door en blijft de stand van de vorige nacht staan.
 
@@ -30,23 +30,23 @@ Dat is een bewuste keuze, en het is de reden dat er soms een dag tussen zit: een
 
 ## De stand van vandaag
 
-Zo ziet dit bestand er nu uit: 11.475 aanbiedingen die vandaag nog lopen, naast een prijsgeschiedenis die tot en met 21 september 2026 loopt. Aanbiedingen waarvan de einddatum voorbij is tellen wij hier niet mee, net zomin als op Vandaag. Elke aanbieding krijgt precies één oordeel.
+Zo ziet dit bestand er nu uit: 10.933 aanbiedingen die vandaag nog lopen, naast een prijsgeschiedenis die tot en met 21 september 2026 loopt. Aanbiedingen waarvan de einddatum voorbij is tellen wij hier niet mee, net zomin als op Vandaag. Elke aanbieding krijgt precies één oordeel.
 
 De eerste drie zijn een oordeel over de verlaging. Bij vers zetten wij onze meting er wel naast maar spreken wij dat oordeel niet uit, en bij de laatste zeggen wij helemaal niets. Hoe groot dat laatste deel is, staat hieronder.
 
 | Oordeel | Aantal | Aandeel |
 |---|---:|---:|
-| Echt voordeel | 5.694 | 50% |
-| Eerder al zo goedkoop | 55 | 0,5% |
-| Geen verlaging in de webshopprijs | 281 | 2% |
-| Vers: wij geven geen oordeel over de korting | 1.050 | 9% |
-| Te weinig gegevens | 4.395 | 38% |
+| Echt voordeel | 5.385 | 49% |
+| Eerder al zo goedkoop | 52 | 0,5% |
+| Geen verlaging in de webshopprijs | 266 | 2% |
+| Vers: wij geven geen oordeel over de korting | 997 | 9% |
+| Te weinig gegevens | 4.233 | 39% |
 
 ## Wat "te weinig gegevens" betekent
 
 Een aanbieding krijgt dat label als wij er geen eigen prijsreeks bij hebben waaruit wij een referentieprijs kunnen halen. Dat gebeurt op twee manieren. Óf wij vinden het product niet terug in onze prijsgeschiedenis — de aanbiedingenbron en de prijsgeschiedenis schrijven productnamen niet hetzelfde op, en wij koppelen alleen wat wij zeker weten. Óf wij vinden het wel terug, maar volgden het te kort of te onregelmatig om over dertig dagen iets te kunnen zeggen.
 
-Dat is geen randgeval. Het overkomt vandaag 4.395 van de 11.475 aanbiedingen: 38%. Bij geen enkele daarvan staat een referentieprijs in onze gegevens, dus er valt ook niets te tonen — geen bedrag, geen percentage, geen grafiek met een stippellijn.
+Dat is geen randgeval. Het overkomt vandaag 4.233 van de 10.933 aanbiedingen: 39%. Bij geen enkele daarvan staat een referentieprijs in onze gegevens, dus er valt ook niets te tonen — geen bedrag, geen percentage, geen grafiek met een stippellijn.
 
 Wij tonen die aanbiedingen wél. Ze staan in Zoeken en je kunt ze op je lijst zetten, met het bedrag dat de winkel noemt erbij. Wat er niet bij staat is een oordeel van ons, want dat hebben wij niet. Zo een aanbieding kan uitstekend zijn. Wij weten het alleen niet, en dat is iets anders dan dat hij niets voorstelt.
 
@@ -100,7 +100,7 @@ De prijs in de winkel zelf. Zie hierboven: wij meten webshops. Wat er op het sch
 
 ## Wat wij met opzet weglaten
 
-Alcohol, tabak en zuigelingenvoeding komen niet op Vandaag en niet bij Koken, ook niet als wij er een verlaging van maten; dat zijn er vandaag 977 van de 11.475. Voor zuigelingenvoeding is dat de wet: het Warenwetbesluit Zuigelingenvoeding verbiedt prijsacties. Voor alcohol en tabak is het onze eigen keuze — een app die kortingen aanprijst hoort dat met deze producten niet te doen. Zoeken vindt ze wel, want iets onvindbaar maken is geen eerlijkheid.
+Alcohol, tabak en zuigelingenvoeding komen niet op Vandaag en niet bij Koken, ook niet als wij er een verlaging van maten; dat zijn er vandaag 900 van de 10.933. Voor zuigelingenvoeding is dat de wet: het Warenwetbesluit Zuigelingenvoeding verbiedt prijsacties. Voor alcohol en tabak is het onze eigen keuze — een app die kortingen aanprijst hoort dat met deze producten niet te doen. Zoeken vindt ze wel, want iets onvindbaar maken is geen eerlijkheid.
 
 ## Wij zeggen liever niets dan iets onjuists.
 
@@ -108,4 +108,4 @@ Daarom staat er bij een groot deel van de producten dat wij te weinig gemeten he
 
 ---
 
-Prijsgeschiedenis: Checkjebon (MIT, open data), door ons gemeten tot en met 21 september 2026. Aanbiedingen: PrijsProfeet. Deze gegevens zijn gebouwd op 21 september 2026 en worden elke ochtend om 08:15 opnieuw gebouwd.
+Prijsgeschiedenis: Checkjebon (MIT, open data), door ons gemeten tot en met 21 september 2026. Aanbiedingen: PrijsProfeet. Deze gegevens zijn gebouwd op 22 september 2026 en worden elke ochtend om 08:15 opnieuw gebouwd.
