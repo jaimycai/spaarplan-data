@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "gebouwd": "2026-09-27T20:27:40",
+ "gebouwd": "2026-09-27T21:56:57",
  "historie_tot": "2026-09-27",
  "n_deals": 14014,
- "gepubliceerd": "2026-09-27T18:40:06+00:00",
+ "gepubliceerd": "2026-09-27T20:01:03+00:00",
  "bestanden": {
   "deals.json": {
-   "bytes": 8579016,
-   "sha256": "5e3872a367df0b0f5c3ed3c9027cf7827d2bdd8955bef0de0d576ae5e1a7df0a"
+   "bytes": 8588082,
+   "sha256": "fae668f5c29d6689cf8e71628723e8a105b9ec30251e831faa777429889e77b5"
   },
   "groepen.json": {
    "bytes": 2181448,
@@ -18,8 +18,8 @@
    "sha256": "98cbd7cd9c0d0632b3822ebd3a42e83b223034eb37e936d08ed65c79f009d40e"
   },
   "recepten.json": {
-   "bytes": 331674,
-   "sha256": "a09fd76460de471d0d91d365788ad323f28d2ebc172a0efe800b7aaa4b16f905"
+   "bytes": 331486,
+   "sha256": "23e71ea6691258063220e3763e37e66eb190df332de6c5b22302a8e3b80abe81"
   },
   "winkels.json": {
    "bytes": 710102,
