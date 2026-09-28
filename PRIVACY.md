@@ -1,6 +1,6 @@
 # Privacy — Spaarplan
 
-*Bijgewerkt op 17 september 2026. Dit is dezelfde tekst als het scherm Privacy in de app,
+*Bijgewerkt op 27 september 2026. Dit is dezelfde tekst als het scherm Privacy in de app,
 geschreven voor een openbare pagina omdat de App Store daar een adres voor vraagt.*
 
 ## Het korte antwoord
@@ -9,9 +9,10 @@ Spaarplan verzamelt niets over jou. Er is geen account, geen inlog, geen adverte
 analytics en geen enkele vorm van tracking. De maker van deze app ontvangt geen gegevens
 van jouw telefoon, want er is geen server van hem om ze naartoe te sturen.
 
-Wat je in de app doet — je boodschappenlijst, welke supermarkten je koos, je dieet en
-allergenen, je thema, de producten die je in de gaten houdt — staat op je eigen toestel en
-verdwijnt als je de app verwijdert.
+Wat je in de app doet, staat op je eigen toestel en verdwijnt als je de app verwijdert: je
+boodschappenlijst, welke supermarkten je koos, je dieet en allergenen, je thema, en de
+producten en woorden die je in de gaten houdt. Dat geldt ook voor de nummers van je
+klantenkaarten: de app tekent de streepjescode zelf, en het nummer staat alleen op je toestel.
 
 ## Wat er wél over het internet gaat
 
@@ -63,10 +64,12 @@ gewoon — je ziet alleen geen afstanden.
 De app stuurt geen pushberichten. Er is geen pushdienst, geen token en geen server van ons;
 technisch kán deze app je geen bericht sturen.
 
-Wat er wél is, en alleen als je het zelf aanzet bij Ik: je telefoon haalt hoogstens één keer
-per twaalf uur dezelfde openbare bestanden op als bij het starten, kijkt zélf of daar een
-product tussen zit dat jij bewaakt, en maakt de melding op het toestel. Wij weten niet welke
-producten je volgt en wij weten niet dat je een melding kreeg.
+Wat er wél is, en alleen als je het zelf aanzet (bij Ik voor een product dat je bewaakt, of
+op Zoeken door een woord te volgen): je telefoon haalt hoogstens één keer per twaalf uur
+dezelfde openbare bestanden op als bij het starten, kijkt zélf of daar een product tussen
+zit dat jij bewaakt, of een aanbieding met ons oordeel Echt voordeel bij een woord dat je
+volgt, en maakt de melding op het toestel. Wij weten niet welke producten of woorden je
+volgt en wij weten niet dat je een melding kreeg.
 
 Het is geen prijsalarm dat op de minuut werkt: iOS bepaalt zelf wanneer een achtergrondtaak
 draait, en forceer je de app af, dan stopt die taak tot je hem weer opent.
