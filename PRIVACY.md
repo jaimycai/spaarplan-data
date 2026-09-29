@@ -1,6 +1,6 @@
 # Privacy — Spaarplan
 
-*Bijgewerkt op 27 september 2026. Dit is dezelfde tekst als het scherm Privacy in de app,
+*Bijgewerkt op 28 september 2026. Dit is dezelfde tekst als het scherm Privacy in de app,
 geschreven voor een openbare pagina omdat de App Store daar een adres voor vraagt.*
 
 ## Het korte antwoord
@@ -13,6 +13,8 @@ Wat je in de app doet, staat op je eigen toestel en verdwijnt als je de app verw
 boodschappenlijst, welke supermarkten je koos, je dieet en allergenen, je thema, en de
 producten en woorden die je in de gaten houdt. Dat geldt ook voor de nummers van je
 klantenkaarten: de app tekent de streepjescode zelf, en het nummer staat alleen op je toestel.
+Scan je een kaart, dan vraagt de app om je camera; die leest alleen de streepjescode en bewaart
+geen foto.
 
 ## Wat er wél over het internet gaat
 
