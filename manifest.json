@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "gebouwd": "2026-09-29T23:36:06",
+ "gebouwd": "2026-09-29T23:53:27",
  "historie_tot": "2026-09-29",
  "n_deals": 11434,
- "gepubliceerd": "2026-09-29T21:40:12+00:00",
+ "gepubliceerd": "2026-09-29T21:57:31+00:00",
  "door": "lokaal",
  "bestanden": {
   "deals.json": {
-   "bytes": 8325199,
-   "sha256": "bcb9d9a10607e6f73b7d39085c766b00ec7e52ffd831c029322853fb2de5cd8c"
+   "bytes": 8341159,
+   "sha256": "705036a06c15b4e339ce8359ab590ef221dd8e87a3a499eb364cdbf51356580f"
   },
   "groepen.json": {
    "bytes": 2181667,
