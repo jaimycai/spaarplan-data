@@ -1,15 +1,13 @@
 # Spaarplan-data
 
-Dagelijkse gegevens voor de app Spaarplan: lopende aanbiedingen met ons eigen
-kortingsoordeel, productgroepen, prijsreeksen, gerechten en supermarktfilialen.
+Openbare pagina's bij de app Spaarplan, en het manifest van de dagelijkse gegevens.
 
-- Prijsgeschiedenis: [Checkjebon](https://github.com/supermarkt/checkjebon) (MIT).
-- Aanbiedingen: [PrijsProfeet](https://www.prijsprofeet.nl) (gratis laag, met naamsvermelding).
-- Filialen: © OpenStreetMap-bijdragers, [ODbL](https://opendatacommons.org/licenses/odbl/).
-- Oordelen, koppelingen en gerechten: eigen werk van Spaarplan.
+De gegevens zelf staan hier sinds 30 september 2026 niet meer: de app haalt ze bij onze
+eigen server. De aanbiedingen komen van [PrijsProfeet](https://www.prijsprofeet.nl), en
+hun voorwaarden staan niet toe dat hun gegevens in een openbare repository staan.
 
-`manifest.json` zegt wanneer de gegevens gebouwd zijn en welke bestanden erbij horen.
-De app haalt het manifest op en daarna alleen de bestanden die veranderd zijn.
+`manifest.json` zegt wanneer de laatste set gegevens gebouwd is, hoeveel aanbiedingen erin
+zitten en welke bestanden erbij horen (grootte en sha256). Er staan geen gegevens in.
 
 Drie pagina's horen bij de app en staan hier omdat de App Store er een openbaar adres
 voor vraagt:

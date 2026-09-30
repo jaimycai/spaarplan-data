@@ -1,13 +1,14 @@
 # Privacy — Spaarplan
 
-*Bijgewerkt op 28 september 2026. Dit is dezelfde tekst als het scherm Privacy in de app,
+*Bijgewerkt op 30 september 2026. Dit is dezelfde tekst als het scherm Privacy in de app,
 geschreven voor een openbare pagina omdat de App Store daar een adres voor vraagt.*
 
 ## Het korte antwoord
 
 Spaarplan verzamelt niets over jou. Er is geen account, geen inlog, geen advertentie, geen
 analytics en geen enkele vorm van tracking. De maker van deze app ontvangt geen gegevens
-van jouw telefoon, want er is geen server van hem om ze naartoe te sturen.
+over jou. Er is één server van hem, en die geeft de app alleen de verse prijzen; hij
+krijgt niets over jou mee en houdt niets bij.
 
 Wat je in de app doet, staat op je eigen toestel en verdwijnt als je de app verwijdert: je
 boodschappenlijst, welke supermarkten je koos, je dieet en allergenen, je thema, en de
@@ -26,10 +27,12 @@ een verzoek om een plaatje binnenkomt, zoals bij elke website die een foto toont
 dat verzoek niet.
 
 **Het verversen van de prijsgegevens.** Bij het starten kijkt de app hoogstens één keer
-per twaalf uur of er nieuwe gegevens zijn. Dat is één klein bestand op
-`raw.githubusercontent.com`, zonder sleutel en zonder parameters, uit een openbare map die
-voor iedereen hetzelfde is. Zijn de gegevens veranderd, dan haalt de app alleen de
-veranderde bestanden op.
+per twaalf uur of er nieuwe gegevens zijn. Dat is één klein bestand bij onze eigen server,
+een Worker bij Cloudflare, zonder parameters, en met een vaste sleutel die in elke kopie
+van de app dezelfde is. Zijn de gegevens veranderd, dan haalt de app alleen de veranderde
+bestanden op. Cloudflare ziet daarbij het IP-adres van je telefoon, zoals elke server dat
+ziet die een antwoord terugstuurt. Wij bewaren het niet: die server houdt geen logboek,
+geen IP-adres en geen teller per toestel bij.
 
 **Een postcode opzoeken.** Alleen als je er zelf een intikt. Die gaat één keer naar de
 Locatieserver van PDOK, een dienst van het Kadaster, zonder account en zonder sleutel. Wij
@@ -63,12 +66,13 @@ gewoon — je ziet alleen geen afstanden.
 
 ## Meldingen
 
-De app stuurt geen pushberichten. Er is geen pushdienst, geen token en geen server van ons;
+De app stuurt geen pushberichten. Er is geen pushdienst, geen token en geen server van ons die
+berichten stuurt;
 technisch kán deze app je geen bericht sturen.
 
 Wat er wél is, en alleen als je het zelf aanzet (bij Ik voor een product dat je bewaakt, of
 op Zoeken door een woord te volgen): je telefoon haalt hoogstens één keer per twaalf uur
-dezelfde openbare bestanden op als bij het starten, kijkt zélf of daar een product tussen
+dezelfde bestanden op als bij het starten, kijkt zélf of daar een product tussen
 zit dat jij bewaakt, of een aanbieding met ons oordeel Echt voordeel bij een woord dat je
 volgt, en maakt de melding op het toestel. Wij weten niet welke producten of woorden je
 volgt en wij weten niet dat je een melding kreeg.

@@ -38,23 +38,23 @@ Dat is een bewuste keuze, en het is de reden dat er soms een dag tussen zit: een
 
 ## De stand van vandaag
 
-Zo ziet dit bestand er nu uit: 9.763 aanbiedingen die vandaag nog lopen, naast een prijsgeschiedenis die tot en met 30 september 2026 loopt. Aanbiedingen waarvan de einddatum voorbij is tellen wij hier niet mee, net zomin als op Vandaag. Elke aanbieding krijgt precies één oordeel.
+Zo ziet dit bestand er nu uit: 10.586 aanbiedingen die vandaag nog lopen, naast een prijsgeschiedenis die tot en met 30 september 2026 loopt. Aanbiedingen waarvan de einddatum voorbij is tellen wij hier niet mee, net zomin als op Vandaag. Elke aanbieding krijgt precies één oordeel.
 
 De eerste drie zijn een oordeel over de verlaging. Bij vers zetten wij onze meting er wel naast maar spreken wij dat oordeel niet uit, en bij de laatste zeggen wij helemaal niets. Hoe groot dat laatste deel is, staat hieronder.
 
 | Oordeel | Aantal | Aandeel |
 |---|---:|---:|
-| Echt voordeel | 4.022 | 41% |
+| Echt voordeel | 4.452 | 42% |
 | Eerder al zo goedkoop | 2 | 0,0% |
 | Geen verlaging in de webshopprijs | 9 | 0,1% |
-| Vers: wij geven geen oordeel over de korting | 1.025 | 10% |
-| Te weinig gegevens | 4.705 | 48% |
+| Vers: wij geven geen oordeel over de korting | 1.125 | 11% |
+| Te weinig gegevens | 4.998 | 47% |
 
 ## Wat "te weinig gegevens" betekent
 
 Een aanbieding krijgt dat label als wij er geen eigen prijsreeks bij hebben waaruit wij een referentieprijs kunnen halen. Dat gebeurt op twee manieren. Óf wij vinden het product niet terug in onze prijsgeschiedenis — de aanbiedingenbron en de prijsgeschiedenis schrijven productnamen niet hetzelfde op, en wij koppelen alleen wat wij zeker weten. Óf wij vinden het wel terug, maar volgden het te kort of te onregelmatig om over dertig dagen iets te kunnen zeggen.
 
-Dat is geen randgeval. Het overkomt vandaag 4.705 van de 9.763 aanbiedingen: 48%. Bij geen enkele daarvan staat een referentieprijs in onze gegevens, dus er valt ook niets te tonen — geen bedrag, geen percentage, geen grafiek met een stippellijn.
+Dat is geen randgeval. Het overkomt vandaag 4.998 van de 10.586 aanbiedingen: 47%. Bij geen enkele daarvan staat een referentieprijs in onze gegevens, dus er valt ook niets te tonen — geen bedrag, geen percentage, geen grafiek met een stippellijn.
 
 Wij tonen die aanbiedingen wél. Ze staan in Zoeken en je kunt ze op je lijst zetten, met het bedrag dat de winkel noemt erbij. Wat er niet bij staat is een oordeel van ons, want dat hebben wij niet. Zo een aanbieding kan uitstekend zijn. Wij weten het alleen niet, en dat is iets anders dan dat hij niets voorstelt.
 
@@ -118,7 +118,7 @@ De voorwaarde bij sommige acties. Onze bron kent er drie: 1 + 1 gratis, een prij
 
 ## Wat wij met opzet weglaten
 
-Alcohol, tabak en zuigelingenvoeding komen niet op Vandaag en niet bij Koken, ook niet als wij er een verlaging van maten; dat zijn er vandaag 792 van de 9.763. Voor zuigelingenvoeding is dat de wet: het Warenwetbesluit Zuigelingenvoeding verbiedt prijsacties. Voor alcohol en tabak is het onze eigen keuze — een app die kortingen aanprijst hoort dat met deze producten niet te doen. Zoeken vindt ze wel, want iets onvindbaar maken is geen eerlijkheid.
+Alcohol, tabak en zuigelingenvoeding komen niet op Vandaag en niet bij Koken, ook niet als wij er een verlaging van maten; dat zijn er vandaag 853 van de 10.586. Voor zuigelingenvoeding is dat de wet: het Warenwetbesluit Zuigelingenvoeding verbiedt prijsacties. Voor alcohol en tabak is het onze eigen keuze — een app die kortingen aanprijst hoort dat met deze producten niet te doen. Zoeken vindt ze wel, want iets onvindbaar maken is geen eerlijkheid.
 
 ## Wij zeggen liever niets dan iets onjuists.
 
