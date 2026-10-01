@@ -51,8 +51,11 @@ Dat klembord is van jou: wij lezen het niet en wij weten niet wat je ermee doet.
 
 Ook dan bezoek jij die site zelf en sturen wij niets mee.
 
-**Een recept importeren.** Alleen als je zelf een adres plakt. Dan haalt je telefoon die
-pagina op, net zoals je browser dat zou doen. Wat eruit komt blijft op je toestel.
+**Een recept importeren.** Alleen als je zelf een adres plakt of deelt. Dan haalt je telefoon
+die pagina op, net zoals je browser dat zou doen. Bij een link van TikTok of YouTube vraagt je
+telefoon de tekst bij die video op bij het platform zelf (hun openbare embeddienst), en bij
+Pinterest de pin en daarna de receptsite waar die naar wijst. Bij Instagram en Facebook halen wij
+niets op: daar plak je de tekst zelf. Wat eruit komt blijft op je toestel.
 
 ## Je locatie
 
