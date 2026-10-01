@@ -110,7 +110,7 @@ Wij doen het net zo. Kost een product vandaag € 1,50 en was het gisteren € 2
 
 Wat een bulkactie kost als je er maar één meeneemt. Onze bron geeft de stuksprijs zoals hij ónder de actie geldt: bij 1 + 1 gratis is dat de prijs per stuk als je er twee pakt. Wij rekenen ons percentage op dat bedrag en zetten de voorwaarde erbij, op de kaart, op je lijst en bij het product. Wat één stuk los kost staat er niet in, dus dat zeggen wij ook niet.
 
-Ledenprijzen. Kortingen die alleen gelden met Bonuskaart, Lidl Plus of Jumbo Extra's staan niet in onze bron. Wij tonen ze niet, ook niet als schatting.
+Ledenprijzen. Een korting die alleen geldt met Bonuskaart, Lidl Plus of Jumbo Extra's tonen wij alleen als onze bron hem noemt, en dan met de pas erbij ("€ 0,49 met Lidl Plus"). Noemt de bron hem niet, dan zien wij hem niet, en vullen wij hem ook niet aan.
 
 De prijs in de winkel zelf. Zie hierboven: wij meten webshops. Wat er op het schapkaartje staat, in welk filiaal dan ook, is voor ons onzichtbaar.
 
