@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "gebouwd": "2026-10-01T18:16:44",
+ "gebouwd": "2026-10-01T21:34:01",
  "historie_tot": "2026-10-01",
  "n_deals": 10843,
- "gepubliceerd": "2026-10-01T16:29:38+00:00",
+ "gepubliceerd": "2026-10-01T19:41:49+00:00",
  "door": "github",
  "bestanden": {
   "deals.json": {
-   "bytes": 7820146,
-   "sha256": "5f4d4c6ef192ee380f17c9b78db284f8e05b6ae39438667e569fb2f72ab7a5fa"
+   "bytes": 7853995,
+   "sha256": "147ce437daca7f50c380fa2638e932967dca40da729c836ec5bf5c6dda73e63d"
   },
   "groepen.json": {
    "bytes": 2182412,

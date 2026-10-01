@@ -92,7 +92,7 @@ Sinds 11 september 2026 bewaren wij elke actie die wij in de folders van de wink
 
 Stond dezelfde prijs, of een lagere, met dezelfde voorwaarde in de dertig dagen vóór een actie al in de folder, dan noemen wij die actie geen echt voordeel. Tegenover die weken is het geen verlaging, en dat is dezelfde vraag als die van de wet hierboven.
 
-Wanneer een product weer in de aanbieding komt, voorspellen wij niet. Een eerdere toets van zulke voorspellingen op onze eigen gegevens zat maar één op de vier keer goed. Wat een winkel al bekendmaakte, de folder van volgende week, zetten wij wel bij het product.
+Wanneer een product weer in de aanbieding komt, voorspellen wij niet. Op 1 oktober 2026 hebben wij dat opnieuw nagemeten op 32 peildata en 5.607 producten: een voorspelde week zat 25 van de 100 keer goed, en een gok zat 27 van de 100 keer goed. Wat een winkel al bekendmaakte, de folder van volgende week, zetten wij wel bij het product.
 
 ## Waarom verse producten daarbuiten vallen
 
