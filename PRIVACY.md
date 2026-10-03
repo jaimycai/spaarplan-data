@@ -1,6 +1,6 @@
 # Privacy — Spaarplan
 
-*Bijgewerkt op 30 september 2026. Dit is dezelfde tekst als het scherm Privacy in de app,
+*Bijgewerkt op 2 oktober 2026. Dit is dezelfde tekst als het scherm Privacy in de app,
 geschreven voor een openbare pagina omdat de App Store daar een adres voor vraagt.*
 
 ## Het korte antwoord
@@ -16,6 +16,11 @@ producten en woorden die je in de gaten houdt. Dat geldt ook voor de nummers van
 klantenkaarten: de app tekent de streepjescode zelf, en het nummer staat alleen op je toestel.
 Scan je een kaart, dan vraagt de app om je camera; die leest alleen de streepjescode en bewaart
 geen foto.
+
+Je eigen recepten staan ook alleen op je toestel, met de foto's die je erbij zet. Maak je zelf
+een foto van een gerecht bij een eigen recept, dan vraagt de app ook om je camera. Kies je
+liever een foto uit je foto's, dan krijgt de app alleen de foto die je kiest en niet de rest.
+Zo'n foto blijft op je toestel en gaat nergens heen.
 
 ## Wat er wél over het internet gaat
 
@@ -55,7 +60,9 @@ Ook dan bezoek jij die site zelf en sturen wij niets mee.
 die pagina op, net zoals je browser dat zou doen. Bij een link van TikTok of YouTube vraagt je
 telefoon de tekst bij die video op bij het platform zelf (hun openbare embeddienst), en bij
 Pinterest de pin en daarna de receptsite waar die naar wijst. Bij Instagram en Facebook halen wij
-niets op: daar plak je de tekst zelf. Wat eruit komt blijft op je toestel.
+niets op: daar plak je de tekst zelf, of je kiest een schermafbeelding. Die leest je telefoon zelf
+(met de tekstherkenning van iOS), en de afbeelding gaat nergens heen. Wat eruit komt blijft op je
+toestel.
 
 ## Je locatie
 
