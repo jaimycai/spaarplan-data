@@ -1,26 +1,26 @@
 {
  "schema": 1,
- "gebouwd": "2026-10-06T08:06:59",
+ "gebouwd": "2026-10-07T08:06:42",
  "historie_tot": "2026-10-06",
- "n_deals": 10918,
- "gepubliceerd": "2026-10-06T06:13:39+00:00",
+ "n_deals": 9170,
+ "gepubliceerd": "2026-10-07T06:13:51+00:00",
  "door": "github",
  "bestanden": {
   "deals.json": {
-   "bytes": 8433043,
-   "sha256": "2574b47023ac6603383f4dd1254e228b5003ab591e2981af2d0552fd53a2c65c"
+   "bytes": 7159264,
+   "sha256": "8cb1587ea0c25d336ab02f434479597a980fc93a6542f5a7c5e40663c0602954"
   },
   "groepen.json": {
-   "bytes": 2249101,
-   "sha256": "f332aee60975fde42cab8d194c8004bfb57f87f4738ee784b17f78d45312cae8"
+   "bytes": 2249047,
+   "sha256": "67618ea9b4ca71b11c7f6298928ce6042d4b6727b72c7e28ed8f733a1bdba31e"
   },
   "historie.json": {
-   "bytes": 965437,
-   "sha256": "a51ee0badafdf4ef96b0ae46091c04aa4f32197c0ed89d0f4cf645f743fb7311"
+   "bytes": 727688,
+   "sha256": "28317a7042398cf8d55ceb6db421292d9f6988a69178825dc916cb8d1bbc3b74"
   },
   "recepten.json": {
-   "bytes": 632793,
-   "sha256": "c56877f55b803db1419184398afc2859745f640143eea46a2d63aeb78a76c6d7"
+   "bytes": 629624,
+   "sha256": "c71f0f42fe39608559cb88fa5268cd45a2a1532335a73a1747cf72d68ddd6589"
   },
   "winkels.json": {
    "bytes": 710102,
