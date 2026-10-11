@@ -14,8 +14,10 @@ Wat je in de app doet, staat op je eigen toestel en verdwijnt als je de app verw
 boodschappenlijst, welke supermarkten je koos, je dieet en allergenen, je thema, en de
 producten en woorden die je in de gaten houdt. Dat geldt ook voor de nummers van je
 klantenkaarten: de app tekent de streepjescode zelf, en het nummer staat alleen op je toestel.
-Scan je een kaart, dan vraagt de app om je camera; die leest alleen de streepjescode en bewaart
-geen foto.
+Staat de reservekopie van je iPhone aan
+(iCloud of je computer), dan gaat dit mee in die reservekopie, net als bij je andere apps; die
+is van jou en van Apple, en wij kunnen er niet bij. Scan je een kaart of een product in de
+winkel, dan vraagt de app om je camera; die leest alleen de streepjescode en bewaart geen foto.
 
 Je eigen recepten staan ook alleen op je toestel, met de foto's die je erbij zet. Maak je zelf
 een foto van een gerecht bij een eigen recept, dan vraagt de app ook om je camera. Kies je
@@ -32,7 +34,7 @@ een verzoek om een plaatje binnenkomt, zoals bij elke website die een foto toont
 dat verzoek niet.
 
 **Het verversen van de prijsgegevens.** Bij het starten kijkt de app hoogstens één keer
-per twaalf uur of er nieuwe gegevens zijn. Dat is één klein bestand bij onze eigen server,
+per uur of er nieuwe gegevens zijn. Dat is één klein bestand bij onze eigen server,
 een Worker bij Cloudflare, zonder parameters, en met een vaste sleutel die in elke kopie
 van de app dezelfde is. Zijn de gegevens veranderd, dan haalt de app alleen de veranderde
 bestanden op. Cloudflare ziet daarbij het IP-adres van je telefoon, zoals elke server dat
@@ -48,11 +50,12 @@ geschiedenis.
 ketens heet hij "Bekijk bij ..." en opent hij de productpagina zelf; het adres komt uit onze
 bron en wordt kaal gemaakt — geen parameters, geen herkenning, geen verwijzing naar ons.
 
-Levert onze bron voor die keten geen adres, dan hangt het van de keten af. Bij Dirk heet de
-knop "Zoek bij Dirk" en gaat hij naar hun zoekpagina met de productnaam erin. DekaMarkt en
-Hoogvliet publiceren geen productpagina's die je kunt delen; daar zet de knop de productnaam
-op je klembord en opent hij hun voorpagina, zodat je hem zelf in hun zoekbalk kunt plakken.
-Dat klembord is van jou: wij lezen het niet en wij weten niet wat je ermee doet.
+Levert onze bron voor dat product geen productpagina, dan heet de knop "Zoek bij ..." en gaat
+hij naar de zoekpagina van die winkel met de productnaam erin. DekaMarkt en Hoogvliet hebben
+geen zoekadres dat je kunt delen; daar zet de knop de productnaam op je klembord en opent hij
+hun voorpagina, zodat je hem zelf in hun zoekbalk kunt plakken. Dat klembord is van jou: wij
+lezen het niet en wij weten niet wat je ermee doet. De folders in Zoeken openen op dezelfde
+manier de folder op de site van de winkel.
 
 Ook dan bezoek jij die site zelf en sturen wij niets mee.
 
