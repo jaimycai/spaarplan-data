@@ -11,8 +11,9 @@ over jou. Er is één server van hem, en die geeft de app alleen de verse prijze
 krijgt niets over jou mee en houdt niets bij.
 
 Wat je in de app doet, staat op je eigen toestel en verdwijnt als je de app verwijdert: je
-boodschappenlijst, welke supermarkten je koos, je dieet en allergenen, je thema, en de
-producten en woorden die je in de gaten houdt. Dat geldt ook voor de nummers van je
+boodschappenlijst, welke supermarkten je koos, je dieet en allergenen, je thema, de
+producten en woorden die je in de gaten houdt, wat er bij In huis staat en de wekkers van de
+kookstand. Dat geldt ook voor de nummers van je
 klantenkaarten: de app tekent de streepjescode zelf, en het nummer staat alleen op je toestel.
 Staat de reservekopie van je iPhone aan
 (iCloud of je computer), dan gaat dit mee in die reservekopie, net als bij je andere apps; die
@@ -92,6 +93,11 @@ volgt en wij weten niet dat je een melding kreeg.
 
 Het is geen prijsalarm dat op de minuut werkt: iOS bepaalt zelf wanneer een achtergrondtaak
 draait, en forceer je de app af, dan stopt die taak tot je hem weer opent.
+
+Zet je in de kookstand een wekker, dan plant je telefoon zelf een melding in voor het moment
+dat de tijd om is. Mocht de app nog geen meldingen geven, dan vraagt hij dat eerst. Inspreken
+bij In huis gaat met de microfoon van het toetsenbord van iOS: de app vraagt zelf geen toegang
+tot je microfoon.
 
 ## Waar de gegevens vandaan komen
 
