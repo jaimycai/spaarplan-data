@@ -1,6 +1,6 @@
 # Hoe wij prijzen meten
 
-*Deze pagina is op 14 oktober 2026 gemaakt uit het scherm Hoe wij prijzen meten in de app Spaarplan, en zegt dus letterlijk hetzelfde. De getallen zijn geteld in de gegevens waar de app zelf mee draait.*
+*Deze pagina is op 15 oktober 2026 gemaakt uit het scherm Hoe wij prijzen meten in de app Spaarplan, en zegt dus letterlijk hetzelfde. De getallen zijn geteld in de gegevens waar de app zelf mee draait.*
 
 Deze app beweert niet dat iets goedkoop is — dat beweert elke folder. Hij legt de actieprijs naast wat het product eerder kostte en trekt daar één conclusie uit. Hieronder staat hoe die conclusie tot stand komt, welke regels erachter zitten, en wat wij niet kunnen zien.
 
@@ -24,6 +24,10 @@ Een negatief oordeel geven wij bij die winkels niet: een actie die wij met een p
 
 De filialen op het scherm In de buurt komen uit OpenStreetMap (© OpenStreetMap- bijdragers, ODbL): plek, adres en, waar OpenStreetMap ze heeft, openingstijden. Dat is een aparte tabel naast onze prijsdata. Onze prijzen zijn webshopprijzen per keten. Wat een product in een bepaald filiaal kost weten wij niet, en dat zetten wij dus nergens neer. De afstand is hemelsbreed, vanaf de plek of postcode die je zelf koos.
 
+## Waar de productfoto's vandaan komen
+
+De foto's komen van de winkels zelf: bij een aanbieding uit PrijsProfeet, en anders van de webshop van de winkel. Waar de winkel ons geen foto geeft, komt hij uit Open Food Facts (© Open Food Facts-bijdragers, foto's onder CC BY-SA, de database onder de ODbL). Wij koppelen die alleen bij hetzelfde merk, dezelfde maat en vrijwel dezelfde naam. Zonder foto staat er de beginletter.
+
 ## Waar de zin 'Waarom deze week' vandaan komt
 
 Bij elk gerecht staat per winkel een eigen zin die zegt waarom het deze week een goede keuze is, en je ziet de zin van de winkel die op datzelfde scherm staat. Die zin schrijft een taalmodel, op basis van precies de cijfers die wij bij díé winkel maten: de prijs per portie met en zonder actie, en welke ingrediënten daar in de aanbieding zijn. Daarna keurt code de zin: elk getal erin moet in die cijfers voorkomen, een andere keten mag niet genoemd worden en gezondheidsclaims en beschuldigingen zijn verboden. Een zin die daar niet doorheen komt, verdwijnt. Dan staat er liever niets. Het model kiest woorden, nooit getallen.
@@ -38,23 +42,23 @@ Dat is een bewuste keuze, en het is de reden dat er soms een dag tussen zit: een
 
 ## De stand van vandaag
 
-Zo ziet dit bestand er nu uit: 10.303 aanbiedingen die vandaag nog lopen, naast een prijsgeschiedenis die tot en met 14 oktober 2026 loopt. Aanbiedingen waarvan de einddatum voorbij is tellen wij hier niet mee, net zomin als op Vandaag. Elke aanbieding krijgt precies één oordeel.
+Zo ziet dit bestand er nu uit: 11.489 aanbiedingen die vandaag nog lopen, naast een prijsgeschiedenis die tot en met 14 oktober 2026 loopt. Aanbiedingen waarvan de einddatum voorbij is tellen wij hier niet mee, net zomin als op Vandaag. Elke aanbieding krijgt precies één oordeel.
 
 De eerste drie zijn een oordeel over de verlaging. Bij vers zetten wij onze meting er wel naast maar spreken wij dat oordeel niet uit, en bij de laatste zeggen wij helemaal niets. Hoe groot dat laatste deel is, staat hieronder.
 
 | Oordeel | Aantal | Aandeel |
 |---|---:|---:|
-| Echt voordeel | 3.447 | 33% |
+| Echt voordeel | 3.828 | 33% |
 | Eerder al zo goedkoop | 12 | 0,1% |
 | Geen verlaging in de webshopprijs | 34 | 0,3% |
-| Vers: wij geven geen oordeel over de korting | 703 | 7% |
-| Te weinig gegevens | 6.107 | 59% |
+| Vers: wij geven geen oordeel over de korting | 800 | 7% |
+| Te weinig gegevens | 6.815 | 59% |
 
 ## Wat "te weinig gegevens" betekent
 
 Een aanbieding krijgt dat label als wij er geen eigen prijsreeks bij hebben waaruit wij een referentieprijs kunnen halen. Dat gebeurt op twee manieren. Óf wij vinden het product niet terug in onze prijsgeschiedenis — de aanbiedingenbron en de prijsgeschiedenis schrijven productnamen niet hetzelfde op, en wij koppelen alleen wat wij zeker weten. Óf wij vinden het wel terug, maar volgden het te kort of te onregelmatig om over dertig dagen iets te kunnen zeggen.
 
-Dat is geen randgeval. Het overkomt vandaag 6.107 van de 10.303 aanbiedingen: 59%. Bij geen enkele daarvan staat een referentieprijs in onze gegevens, dus er valt ook niets te tonen — geen bedrag, geen percentage, geen grafiek met een stippellijn.
+Dat is geen randgeval. Het overkomt vandaag 6.815 van de 11.489 aanbiedingen: 59%. Bij geen enkele daarvan staat een referentieprijs in onze gegevens, dus er valt ook niets te tonen — geen bedrag, geen percentage, geen grafiek met een stippellijn.
 
 Wij tonen die aanbiedingen wél. Ze staan in Zoeken en je kunt ze op je lijst zetten, met het bedrag dat de winkel noemt erbij. Wat er niet bij staat is een oordeel van ons, want dat hebben wij niet. Zo een aanbieding kan uitstekend zijn. Wij weten het alleen niet, en dat is iets anders dan dat hij niets voorstelt.
 
@@ -118,7 +122,7 @@ De voorwaarde bij sommige acties. Wij lezen hem uit de tekst van de winkel en ui
 
 ## Wat wij met opzet weglaten
 
-Alcohol, tabak en zuigelingenvoeding komen niet op Vandaag en niet bij Koken, ook niet als wij er een verlaging van maten; dat zijn er vandaag 693 van de 10.303. Voor zuigelingenvoeding is dat de wet: het Warenwetbesluit Zuigelingenvoeding verbiedt prijsacties. Voor alcohol en tabak is het onze eigen keuze — een app die kortingen aanprijst hoort dat met deze producten niet te doen. Zoeken vindt ze wel, want iets onvindbaar maken is geen eerlijkheid.
+Alcohol, tabak en zuigelingenvoeding komen niet op Vandaag en niet bij Koken, ook niet als wij er een verlaging van maten; dat zijn er vandaag 918 van de 11.489. Voor zuigelingenvoeding is dat de wet: het Warenwetbesluit Zuigelingenvoeding verbiedt prijsacties. Voor alcohol en tabak is het onze eigen keuze — een app die kortingen aanprijst hoort dat met deze producten niet te doen. Zoeken vindt ze wel, want iets onvindbaar maken is geen eerlijkheid.
 
 ## Wij zeggen liever niets dan iets onjuists.
 
