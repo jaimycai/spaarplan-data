@@ -1,6 +1,6 @@
 # Hoe wij prijzen meten
 
-*Deze pagina is op 15 oktober 2026 gemaakt uit het scherm Hoe wij prijzen meten in de app Spaarplan, en zegt dus letterlijk hetzelfde. De getallen zijn geteld in de gegevens waar de app zelf mee draait.*
+*Deze pagina is op 16 oktober 2026 gemaakt uit het scherm Hoe wij prijzen meten in de app Spaarplan, en zegt dus letterlijk hetzelfde. De getallen zijn geteld in de gegevens waar de app zelf mee draait.*
 
 Deze app beweert niet dat iets goedkoop is — dat beweert elke folder. Hij legt de actieprijs naast wat het product eerder kostte en trekt daar één conclusie uit. Hieronder staat hoe die conclusie tot stand komt, welke regels erachter zitten, en wat wij niet kunnen zien.
 
