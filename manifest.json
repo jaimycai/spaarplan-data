@@ -1,18 +1,18 @@
 {
  "schema": 1,
- "gebouwd": "2026-10-17T08:08:16",
+ "gebouwd": "2026-10-17T22:51:42",
  "historie_tot": "2026-10-17",
  "n_deals": 12517,
- "gepubliceerd": "2026-10-17T06:15:42+00:00",
+ "gepubliceerd": "2026-10-17T20:59:06+00:00",
  "door": "github",
  "bestanden": {
   "deals.json": {
-   "bytes": 9105971,
-   "sha256": "6ab3133e3515681cb93c65ba6af77a2754f2caedc283c8ee9e1f3d54599abb6e"
+   "bytes": 9129103,
+   "sha256": "d7a1d3d432fe1b63332055ff72023bc04a62c0415222779a5fd3ce830ca111ff"
   },
   "groepen.json": {
-   "bytes": 2413112,
-   "sha256": "c755ff0db8aa44579eff706454fe5c6a61cde1595d53cf140972f9d986d311ae"
+   "bytes": 2428322,
+   "sha256": "b79b123b7a9f601c2d2e2fa8980147e633eb808622162ca3447e8b626433b674"
   },
   "historie.json": {
    "bytes": 886819,
@@ -27,8 +27,8 @@
    "sha256": "e2fd931c3ccdfdf72d9473fae1092a7bba36a4f311173ce7fcad002e00c2cde4"
   },
   "schap.json": {
-   "bytes": 5835399,
-   "sha256": "ea8976efd87a855a19016c90233cb9aaaafa11be8b6c7200e9bac4e212996757"
+   "bytes": 5837684,
+   "sha256": "468ae02ff6048de3da3ba70225e2c10a1368fa02002f5e009fd8b0a81453ff8e"
   }
  }
 }
