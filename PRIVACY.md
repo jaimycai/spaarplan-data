@@ -40,7 +40,9 @@ een Worker bij Cloudflare, zonder parameters, en met een vaste sleutel die in el
 van de app dezelfde is. Zijn de gegevens veranderd, dan haalt de app alleen de veranderde
 bestanden op. Cloudflare ziet daarbij het IP-adres van je telefoon, zoals elke server dat
 ziet die een antwoord terugstuurt. Wij bewaren het niet: die server houdt geen logboek,
-geen IP-adres en geen teller per toestel bij.
+geen IP-adres en geen teller per toestel bij. De enige uitzondering is het schrijven van een
+recept (hieronder): daar telt hij een minuut lang hoe vaak een IP-adres het vroeg, tegen
+misbruik, en daarna niet meer.
 
 **Een postcode opzoeken.** Alleen als je er zelf een intikt. Die gaat één keer naar de
 Locatieserver van PDOK, een dienst van het Kadaster, zonder account en zonder sleutel. Wij
@@ -60,13 +62,29 @@ manier de folder op de site van de winkel.
 
 Ook dan bezoek jij die site zelf en sturen wij niets mee.
 
-**Een recept importeren.** Alleen als je zelf een adres plakt of deelt. Dan haalt je telefoon
-die pagina op, net zoals je browser dat zou doen. Bij een link van TikTok of YouTube vraagt je
-telefoon de tekst bij die video op bij het platform zelf (hun openbare embeddienst), en bij
-Pinterest de pin en daarna de receptsite waar die naar wijst. Bij Instagram en Facebook halen wij
-niets op: daar plak je de tekst zelf, of je kiest een schermafbeelding. Die leest je telefoon zelf
-(met de tekstherkenning van iOS), en de afbeelding gaat nergens heen. Wat eruit komt blijft op je
-toestel.
+**Een recept importeren.** Alleen als je zelf een adres plakt of deelt. Een link van een
+receptsite haalt je telefoon zelf op, net zoals je browser dat zou doen; bij Pinterest de pin en
+daarna de receptsite waar die naar wijst. Weigert een site de app, dan haalt onze server die ene
+pagina op (alleen als er een recept op staat), en lukt ook dat niet, dan opent je telefoon de
+pagina onzichtbaar in een webweergave, zoals Safari. De site kan daarbij zijn eigen scripts en
+cookies gebruiken; die worden niet bewaard.
+
+Een link van TikTok of YouTube gaat naar onze eigen server (sinds 19-10-2026). Die vraagt bij
+TikTok de video op, en bij YouTube de titel en de beschrijving via de YouTube API Services van
+Google. Daarvoor gelden de voorwaarden van YouTube (https://www.youtube.com/t/terms) en de
+privacyverklaring van Google (https://policies.google.com/privacy). Onze server bewaart wat het
+platform over die link zegt een week, zodat dezelfde link niet steeds opnieuw wordt opgevraagd.
+Wie de link deelde, bewaart hij niet.
+
+Staat het recept niet in de tekst bij de video, dan vraagt de app welk gerecht het is. Die naam
+gaat, met de tekst die er wel bij de video stond, naar onze server. Die schrijft er een recept
+bij met een taalmodel van Cloudflare (Workers AI), en bewaart dat recept een maand bij die naam
+en tekst, zodat dezelfde vraag niet opnieuw naar het model gaat. Wie het vroeg, bewaart hij niet.
+In de app staat zo'n recept als "Aangevuld door Spaarplan".
+
+Bij Instagram en Facebook halen wij niets op: daar vul je de naam van het gerecht in, of je kiest
+een schermafbeelding. Die leest je telefoon zelf (met de tekstherkenning van iOS), en de
+afbeelding gaat nergens heen. Wat eruit komt blijft op je toestel.
 
 ## Je locatie
 
