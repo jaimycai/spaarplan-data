@@ -1,6 +1,6 @@
 # Privacy — Spaarplan
 
-*Bijgewerkt op 2 oktober 2026. Dit is dezelfde tekst als het scherm Privacy in de app,
+*Bijgewerkt op 21 oktober 2026. Dit is dezelfde tekst als het scherm Privacy in de app,
 geschreven voor een openbare pagina omdat de App Store daar een adres voor vraagt.*
 
 ## Het korte antwoord
@@ -76,15 +76,28 @@ privacyverklaring van Google (https://policies.google.com/privacy). Onze server 
 platform over die link zegt een week, zodat dezelfde link niet steeds opnieuw wordt opgevraagd.
 Wie de link deelde, bewaart hij niet.
 
-Staat het recept niet in de tekst bij de video, dan vraagt de app welk gerecht het is. Die naam
-gaat, met de tekst die er wel bij de video stond, naar onze server. Die schrijft er een recept
-bij met een taalmodel van Cloudflare (Workers AI), en bewaart dat recept een maand bij die naam
-en tekst, zodat dezelfde vraag niet opnieuw naar het model gaat. Wie het vroeg, bewaart hij niet.
-In de app staat zo'n recept als "Aangevuld door Spaarplan".
+Een post van TikTok, Instagram of Facebook opent je telefoon ook zelf, onzichtbaar in een
+webweergave, zoals Safari dat doet (sinds versie 1.3.0). Zo leest hij de tekst bij de post, de
+omslagfoto en bij TikTok de automatische ondertitels. Het platform kan daarbij zijn eigen scripts
+en cookies gebruiken; die worden niet bewaard.
 
-Bij Instagram en Facebook halen wij niets op: daar vul je de naam van het gerecht in, of je kiest
-een schermafbeelding. Die leest je telefoon zelf (met de tekstherkenning van iOS), en de
-afbeelding gaat nergens heen. Wat eruit komt blijft op je toestel.
+Staat het recept niet of maar half in de tekst bij de video, dan vult onze server het aan.
+Daarvoor gaan de naam van het gerecht (die leest de app af, of hij vraagt hem aan jou) en de
+tekst en ondertitels die wel bij de video stonden naar onze server. Die schrijft er een recept
+bij met een taalmodel van Cloudflare (Workers AI). Heeft dat model het te druk, dan gaat dezelfde
+vraag naar een taalmodel van Groq, een bedrijf in de Verenigde Staten
+(https://groq.com/privacy-policy), dat niet traint op wat wij sturen. Lukt ook dat niet, dan
+schrijft het taalmodel van Apple het recept op je telefoon zelf. Onze server bewaart een recept
+een maand bij die naam en tekst, zodat dezelfde vraag niet opnieuw naar een model gaat. Wie het
+vroeg, bewaart hij niet. In de app staat zo'n recept als "Aangevuld door Spaarplan".
+
+Heeft een recept geen foto, dan gaat alleen de naam van het gerecht naar onze server. Staat dat
+gerecht in onze fotocatalogus, dan haalt je telefoon die foto daar op, met "Beeld gemaakt door
+Spaarplan" erop.
+
+Het recept uit de video zelf haal je binnen met een schermafbeelding. Die leest je telefoon zelf
+(met de tekstherkenning van iOS), en de afbeelding gaat nergens heen. Wat eruit komt blijft op je
+toestel.
 
 ## Je locatie
 
